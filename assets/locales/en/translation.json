@@ -1,0 +1,183 @@
+{
+    "app_title": "Admin Panel || Entsorg Meister",
+    "new-orders": "New Orders",
+    "active-orders": "Active Orders",
+    "completed-orders": "Completed Orders",
+    "sort-by": "Sort by",
+    "newest": "Newest",
+    "oldest": "Oldest",
+    "order-status": "Order Status",
+    "name": "Name",
+    "home": "Home",
+    "id": "Id",
+    "city": "City",
+    "postcode": "Postcode",
+    "area": "Area(m.sq)",
+    "email": "Email",
+    "section": "Section",
+    "phone": "Phone",
+    "method": "Method",
+    "date": "Date",
+    "edit": "Edit",
+    "complete-order": "Complete Order",
+    "delete" : "Delete",
+    "area-unit" : "m.sq",
+    "completed" : "Completed",
+    "complete" : "Complete",
+    "no-new-orders" : "No new orders found",
+    "loading-data":"Loading data",
+    "logout":"Logout",
+
+
+    "dashboard": "Dashboard",
+    "add-order": "Add order",
+    "active-order": "Active orders",
+    "revenue": "Revenue",
+    "subcontractor": "SubContractors",
+    "query": "Query",
+
+    "view": "View",
+    "no-queries": "No queries found",
+    "search-by":"Search by different fields"  ,
+
+    "cost": "Cost",
+    "floor": "Floor",
+
+    "order-info":"Order Info",
+    "address" : "Address",
+    "order-created-on" : "Order Created on",
+    "date-ofs-moving" : "Date of Moving",
+    "user-ad" : "Advance Percent(User)",
+    "subcontractor-ad" : "Advance Percent(Subcontractor)",
+
+    "location" : "Location",
+    "vatid" : "VAT ID",
+    "no-sub-found": "No subcontractors found",
+    "subcontractor-info": "Subcontrator Info",
+    "customer": "Customer",
+    "tot-revenue": "Total Revenue",
+    "date-of-com": "Date of Completion",
+    "no-completed-found": "No completed orders found",
+    "this-month":"This month",
+    "this-week":"This week",
+    "no-data-found" : "No data found",
+    "order-created": "Order created on",
+    "date-of-moving": "Date of moving",
+
+    "form-one-heading":"Select the volume that needs to be cleared out",
+    "form-one-subtext":"Pick a rough estimate by clicking on one of these three boxes",
+    "low":"Low",
+    "average":"Average",
+    "high":"High",
+    "drag":"Drag your images here or click to upload",
+    "form-one-upload":"Upload some pictures of your place",
+    "form-one-upload-small":"You can upload  three images of your place at maximum",
+    
+    "form-two-area":"Enter the area of the place that needs to be decluttered",
+    "form-two-area-small":"Try to minimize the error in area measurements",
+    "form-two-slider-instruct":"Use the slider to enter the area",
+    "form-two-area-unit":"meter square",
+
+    "form-three-heading":"Enter the requested info",
+    "form-three-mandatory":"All fields are mandatory",
+    "form-three-name":"First name and last name are mandatory",
+    "form-three-email":"Email address should ve vaild",
+    "form-three-phone":"Enter your phone number",
+    "form-three-address":"Enter your address",
+    "welcome":"Our agent will call you soon",
+    "add-orders": "Add Orders",
+
+    "successful": "Order is successfully registered!",
+    "form-four-heading":"Section of the house that needs to be cleared",
+    "form-four-mandatory": "This field is mandatory",
+    "kitchen":"Kitchen",
+    "bedroom":"Bedroom",
+    "loft":"Loft",
+    "basement":"Basement",
+    "others":"Others",
+    "form-four-sub":"In case of others, mention here",
+    "mention-section":"Mention the section",
+
+    "form-five-heading":"Method of reaching out",
+    "form-five-sub":"Elevator or Stairs, in case of stairs floor no. is mandatory",
+
+    "moving":"When's the moving required",
+    "select-date":"Select the date",
+    "floor-no":"Floor no.",
+    "elevator":"Elevator",
+    "stairs":"Stairs",
+
+    "enter-postcode":"Enter the postcode",
+    "city-name":"Enter your city name",
+    "additional-des":"Additional Description",
+    "side-note":"Add a side note",
+
+    "order-updated":" Order has been updated!",
+    "send-quote":"Send a quote",
+    "advance-cost":"Advance Cost",
+    "send":"Send Quote",
+    "user":"User",
+    "view-edit":"View or Edit Orders",
+    "volume":"Volume",
+    "description":"Description",
+    "update":"Update",
+
+    "login": "Login",
+    "fill-login":"Fill the text fields to login as an admin.",
+    "no-account":"Doesn't have an account yet?",
+    "register-here":"Register here",
+    "pass":"Password",
+
+    "registeration":"Registeration",
+    "fill-register":"Fill the text fields to register as an admin.",
+    "already-account":"Already have an account?",
+    "login-here":"Login here",
+    "register":"Register",
+    "source":"Source",
+
+
+    "enter-name":"Enter your name",
+
+    "berlin":"Berlin and surroundings",
+    "hamburg":"Hamburg and surroundings",
+    "munich":"Munich and surroundings",
+    "cologne":"Cologne and surroundings",
+    "frankfurt":"Frankfurt and surroundings",
+    "stuttgart":"Stuttgart and surroundings",
+    "düsseldorf":"Düsseldorf and surroundings",
+    "leipzip":"Leipzip and surroundings",
+    "dortmund":"Dortmund and surroundings",
+    "essen":"Essen and surroundings",
+    "bresmen":"Bresmen and surroundings",
+    "dresden":"Dresden and surroundings",
+    "hannover":"Hannover and surroundings",
+    "nuremberg":"Nuremberg and surroundings",
+    "duisburg":"Duisburg and surroundings",
+    "bochum":"Bochum and surroundings",
+    "wuppertal":"Wuppertal and surroundings",
+    "bielefeld":"Bielefeld and surroundings",
+    "bonn":"Bonn and surroundings",
+    "münster":"Münster and surroundings"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+  
+
+        
